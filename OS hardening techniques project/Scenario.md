@@ -13,9 +13,9 @@ The logs show the following process:
 
 1. The browser requests a DNS resolution of the yummyrecipesforme.com URL.
 
-2.The DNS replies with the correct IP address. 
+2. The DNS replies with the correct IP address. 
 
-3.The browser initiates an HTTP request for the webpage.
+3. The browser initiates an HTTP request for the webpage.
 
 4. The browser initiates the download of the malware.
 
