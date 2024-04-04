@@ -35,7 +35,7 @@ As a cyber security analyst, what are the next steps to take? List all that appl
 Here are some resources to help you
 1. Top 10 Common types of Cybersecurity Attacks ([infocyte.com](https://www.datto.com/blog/cybersecurity-101-intro-to-the-top-10-common-types-of-cybersecurity-attacks))
 2. 11 Types of Phishing + Real-Life Examples ([pandasecurity.com](https://www.pandasecurity.com/en/mediacenter/tips/types-of-phishing/))
-3. 8 Critical steps to take after a ransomware attack: Ransomware response guide for businesses - Emsisoft | Security Blog(https://blog.emsisoft.com/en/36921/8-critical-steps-to-take-after-a-ransomware-attack-ransomware-response-guide-for-businesses/)
+3. 8 Critical steps to take after a ransomware attack: Ransomware response guide for businesses - Emsisoft | Security Blog([emisoft.com](https://blog.emsisoft.com/en/36921/8-critical-steps-to-take-after-a-ransomware-attack-ransomware-response-guide-for-businesses/))
 4. Battling Ransomware: How to Respond to a Ransomware Incident ([forbes.com](https://www.forbes.com/sites/forbestechcouncil/2018/12/27/battling-ransomware-how-to-respond-to-a-ransomware-incident/?sh=b464b4864dc6))
 5. Frequently Asked Questions - Ransomware | Information Security Office ([berkeley.edu](https://security.berkeley.edu/faq/ransomware/))
 6. What to do before and after a cybersecurity breach? | ([american.edu](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf))
