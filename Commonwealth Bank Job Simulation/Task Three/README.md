@@ -28,6 +28,7 @@ To design an effective infographic to raise security awareness on password secur
 4. Incorporate the ACSC advice on creating strong passwords.
 5. Include tips on how to manage passwords.
 6. Make the infographic visually appealing and easy to understand for the audience.
+
 Remember that the target audience for this infographic are your fellow employees and the format in which this should be delivered is PDF. You can find a “Sample Infographic” in the Resources section to help you get started.
 *Resources*
 1. ([ASCS website](https://www.cyber.gov.au/))
