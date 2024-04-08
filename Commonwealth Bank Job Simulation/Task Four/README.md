@@ -24,14 +24,15 @@ After completing the challenge, you will need to create a pentest report detaili
 To complete this task:
 
 1. Go to ([HackThisSite](https://www.hackthissite.org/)) and create an account.
-2. On the left-hand side, Click on the “Challenges” section and select “Basic” (or click here). 
+2. On the left-hand side, Click on the “Challenges” section and select “Basic” (or click here).
 3. Complete all levels from Basic Level 1 to 11.
 4. After completing all levels, document a Penetration Testing Report that includes an executive summary, scope of web application tested, vulnerability description and key findings for each level, as well as recommendations on how to better secure the web application.
 5. Additional resources are provided in the Resources for help, which will be especially useful if you have no prior experience with pentesting.
+
 It's important to note that this is a legal and safe environment for individuals to improve their cyber security skills, and all activities should be done in accordance with the website's terms of service and ethical guidelines.
 
 Here are some resources to help you
-1.([ How to View the HTML Source Code of a Web Page - computerhope.com](https://www.computerhope.com/issues/ch000746.htm)) - Hint for Level 1, 2 & 3
+1. ([ How to View the HTML Source Code of a Web Page - computerhope.com](https://www.computerhope.com/issues/ch000746.htm)) - Hint for Level 1, 2 & 3.
 2. ([How to view source code – ViewSourcePage.com](https://viewsourcepage.com/how-to-view-source-code/)) - Hint for Level 1, 2 & 3
 3. ([How to Edit Any Web Page in Chrome (or Any Browser) (howtogeek.com)](https://www.howtogeek.com/442634/how-to-edit-any-web-page-right-in-chrome-or-any-browser/)) - Hint for Level 4 & 5
 4. ([ASCII Table - ASCII Character Codes, HTML, Octal, Hex, Decimal](https://www.asciitable.com/)) - Hint for Level 6.
