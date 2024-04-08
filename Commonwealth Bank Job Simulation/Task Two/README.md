@@ -39,3 +39,46 @@ Here are some resources to help you
 4. Battling Ransomware: How to Respond to a Ransomware Incident ([forbes.com](https://www.forbes.com/sites/forbestechcouncil/2018/12/27/battling-ransomware-how-to-respond-to-a-ransomware-incident/?sh=b464b4864dc6))
 5. Frequently Asked Questions - Ransomware | Information Security Office ([berkeley.edu](https://security.berkeley.edu/faq/ransomware/))
 6. What to do before and after a cybersecurity breach? | ([american.edu](https://www.american.edu/kogod/research/cybergov/upload/what-to-do.pdf))
+
+## Task: Answer
+Phishing Attack: The initial email sent to employees from HR requesting them to update their timesheets seems suspicious. The fact that it directed users to a fake website to steal their usernames and passwords indicates a phishing attempt. Additionally, the subsequent reports of colleagues receiving similar emails and encountering issues with file-shares and Word documents suggest a broader attack aimed at compromising user credentials and delivering harmful payloads.
+As a cyber security analyst, the next steps to take include:
+
+Immediate Response:
+
+Notify affected users: Inform all users who received the phishing email about the incident and advise them to change their passwords immediately.
+Disable compromised accounts: Disable any accounts that have been compromised to prevent further unauthorized access.
+Investigate further: Conduct a detailed analysis of the phishing email and the fake website to identify indicators of compromise (IOCs) and potential malware.
+Containment, Resolution, and Recovery:
+
+Contain the threat: Isolate affected systems and networks to prevent the spread of malware and further compromise.
+Remove malicious files: Scan and remove any malicious files or programs that may have been downloaded onto the affected systems.
+Restore from backups: Restore any affected files or systems from clean backups to ensure business continuity.
+Patch vulnerabilities: Identify and patch any vulnerabilities that may have been exploited by the attackers to prevent future similar incidents.
+Post-Incident Activities:
+
+Conduct a post-incident review: Analyze the incident response process to identify any gaps or areas for improvement.
+Update security policies: Review and update security policies and procedures to mitigate similar attacks in the future.
+Provide user education: Conduct training sessions to educate employees about phishing attacks and how to recognize and report them.
+Monitor for further activity: Implement monitoring and detection mechanisms to detect any further suspicious activity or attempted intrusions.
+By following these steps, the organization can effectively contain, resolve, and recover from the phishing attack while also implementing measures to prevent similar incidents in the future.
+
+## Task 2 Example Answer: 
+
+What kind of attack has happened, and why do you think so? 
+In a phishing attack, the perpetrator pretends to be a reputable entity or person via email to obtain sensitive information like login credentials. In this case, the attacker disguised as the company's HR by asking employees to update their timesheets. 
+Malware is intrusive software designed to harm or exploit computers. In this case, the user executed a phishing attack payload that may have installed malware onto their system. As users cannot open a Word document that they have always been able to open, this could be ransomware or a virus. 
+As a cyber security analyst, what are the next steps to take? List all that apply. 
+Begin documenting the investigation. 
+Prioritise handling the incident based on factors such as functional impact, information impact and recoverability effort. 
+Advise users to change and strengthen all logins, passwords and security questions. 
+How would you contain, resolve and recover from this incident? List all answers that apply. 
+Identify and mitigate all exploited vulnerabilities. 
+Attempt to remove malware from all hosts affected. 
+Return affected systems to an operationally ready state. 
+Confirm that the affected systems are functioning normally. 
+Stay alert and continue to monitor for any similar future activity. 
+What activities should be performed post-incident? 
+Follow-up report detailing everything that occurred. 
+Hold a lesson-learnt meeting. 
+Educate: Create a cyber awareness program for employees. Such programs help employees identify future phishing emails.
